@@ -1,4 +1,4 @@
-# Aviatrix AWS Onboarding Script - README
+# Aviatrix AWS Onboarding Script 
 
 ## Overview
 
